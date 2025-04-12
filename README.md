@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Aethersailor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true)](https://github.com/Aethersailor/github-readme-stats)
+
 <!--
 **Aethersailor/Aethersailor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
