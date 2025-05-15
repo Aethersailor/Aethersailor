@@ -1,4 +1,5 @@
 name: Bug report
+description: 上报 BUG
 title: '模板错误'
 labels: 'bug'
 
