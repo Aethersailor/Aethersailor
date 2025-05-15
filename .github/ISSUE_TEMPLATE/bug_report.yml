@@ -59,7 +59,7 @@ body:
 
 
   - type: textarea
-    id: describe_bug
+    id: describe_solution
     attributes:
       label: 我提供的解决方案
       description: |
