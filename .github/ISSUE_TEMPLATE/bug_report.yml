@@ -27,7 +27,7 @@ body:
           required: true
         - label: 这确实是本项目出现的问题
           required: true
-        - label: 我有能力协助 OpenClash 开发并解决此问题
+        - label: 我有能力协助开发并解决此问题
           required: false
         - label: 我提交的**是无意义的**催促更新或修复请求
           required: false
