@@ -7,7 +7,7 @@ labels: 'bug'
 
 body:
   - type: checkboxes
-    id: 请确认以下选项
+    id: verify_steps
     attributes:
       label: Verify Steps
       description: |
