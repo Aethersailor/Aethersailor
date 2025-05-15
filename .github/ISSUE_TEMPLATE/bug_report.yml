@@ -35,7 +35,7 @@ body:
   - type: dropdown
     id: bug_ini
     attributes:
-      label: Bug on .ini
+      label: 存在问题的模板文件
       description: |
         发现问题所在的模板
       multiple: true
