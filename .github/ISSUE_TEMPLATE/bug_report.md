@@ -1,38 +1,47 @@
----
 name: Bug report
 about: Create a report to help us improve
-title: ''
-labels: ''
-assignees: ''
+title: "[Bug] "
+labels: ["bug"]
+body:
 
----
+  - type: checkboxes
+    id: verify_step
+    attributes:
+      label: Verify Steps
+      description: |
+        在提交之前，请确认 / Please verify that you've followed these steps.
+      options:
+        - label: 我已经在 [Issue Tracker](……/) 中找过我要提出的问题
+          required: true
+        - label: 我知道本项目提供订阅转换模板，只影响分流。
+          required: true
+        - label: 我知道本项目订阅转换模板引用的是第三方规则，其是否更新与本项目无关。
+          required: true
+        - label: 我已经更新了最新的 GeoIP、GeoSite 和大陆白名单等数据库。
+          required: true
+        - label: 我使用的是 OpenWrt/ImmortalWrt 官方发布的固件版本，非第三方编译版本。
+          required: true
+        - label: 我使用的是最新的 dev 版本 OpenClash。
+          required: true
+        - label: 这确实是本项目出现的问题
+          required: true
+        - label: 我有能力协助 OpenClash 开发并解决此问题
+          required: false
+        - label: 我提交的**是无意义的**催促更新或修复请求
+          required: false
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
-
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
-
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
-
-**Additional context**
-Add any other context about the problem here.
+  - type: dropdown
+    id: bug_ini
+    attributes:
+      label: Bug on .ini
+      description: |
+        发现问题所在的模板
+      multiple: true
+      options:
+        - Custom_Clash.ini
+        - Custom_Clash_Full.ini
+        - Custom_Clash_GFW.ini
+        - Custom_Clash_Lite.ini
+        - Custom_Clash_Mainland.ini
+    validations:
+      required: true    
