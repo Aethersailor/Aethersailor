@@ -1,9 +1,13 @@
+---
 name: Bug report
 about: Create a report to help us improve
-title: "[Bug] "
-labels: ["bug"]
-body:
+title: '模板错误'
+labels: 'bug'
+assignees: ''
 
+---
+
+body:
   - type: checkboxes
     id: verify_step
     attributes:
@@ -45,3 +49,14 @@ body:
         - Custom_Clash_Mainland.ini
     validations:
       required: true    
+
+
+body:
+- type: input
+  id: prevalence
+  attributes:
+    label: Bug prevalence
+    description: "How often do you or others encounter this bug?"
+    placeholder: "Whenever I visit the user account page (1-2 times a week)"
+  validations:
+    required: true
