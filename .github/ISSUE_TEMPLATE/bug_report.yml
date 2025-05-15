@@ -48,3 +48,21 @@ body:
     validations:
       required: true    
 
+  - type: textarea
+    id: describe_bug
+    attributes:
+      label: 描述模板存在的 BUG
+      description: |
+        对 Bug 本身清晰而简洁的描述
+    validations:
+      required: true
+
+
+  - type: textarea
+    id: describe_bug
+    attributes:
+      label: 我提供的解决方案
+      description: |
+        提供你认为可行的解决方案
+    validations:
+      required: true
