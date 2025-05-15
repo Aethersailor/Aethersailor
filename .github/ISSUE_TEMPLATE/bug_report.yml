@@ -1,5 +1,5 @@
-name: Bug report
-description: 上报 BUG
+name: 模板错判上报
+description: 上报你在模板中发现的 BUG
 title: '模板错误'
 labels: 'bug'
 
