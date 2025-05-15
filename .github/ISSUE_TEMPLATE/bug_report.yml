@@ -15,22 +15,36 @@ body:
       options:
         - label: 我已经在 [Issue Tracker](……/) 中找过我要提出的问题
           required: true
+        - label: 我已经尝试过自己排查故障
+          required: true
         - label: 我知道本项目提供订阅转换模板，只影响分流。
           required: true
         - label: 我知道本项目订阅转换模板引用的是第三方上游规则，其是否更新与本项目无关。
           required: true
+        - label: 我知道本项目有非常多的用户，而我遇到的问题很有可能是个例。
+          required: true
         - label: 我已经更新了最新的 GeoIP、GeoSite 和大陆白名单等数据库。
           required: true
-        - label: 我使用的是 OpenWrt/ImmortalWrt 官方发布的固件版本，非第三方编译版本。
+        - label: 我使用的是 OpenWrt/ImmortalWrt 官方发布的固件或官方 ImageBuilder 生成的固件，非第三方编译版本。
           required: true
         - label: 我使用的是最新的 dev 版本 OpenClash。
           required: true
-        - label: 这确实是本项目模板的问题
+        - label: 这确实是本项目模板文件导致的问题
           required: true
         - label: 我有能力协助开发并解决此问题
           required: false
         - label: 我提交的**是无意义的**催促更新或修复请求
           required: false
+
+  - type: input
+    id: openclash_version
+    attributes:
+      label: OpenClash Version
+      description: |
+        OpenClash 版本号
+      placeholder: "v0.0.0-beta"
+    validations:
+      required: true
 
   - type: dropdown
     id: bug_ini
