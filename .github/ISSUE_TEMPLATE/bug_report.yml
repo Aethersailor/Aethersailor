@@ -1,9 +1,8 @@
----
 name: Bug report
 title: '模板错误'
 labels: 'bug'
 
----
+
 
 body:
   - type: checkboxes
