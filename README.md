@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🛠️ Remote WebOps / Infrastructure Engineer / 
+🛠️ Remote WebOps / Infrastructure Engineer  
 🌍 Currently working with **Infosys Ltd / DXC Technology** (remote contract)  
 🕶️ Full-time digital nomad  
 📍 Usually based in **Chiang Mai 🇹🇭** or **Hangzhou 🇨🇳** or anywhere in the world
