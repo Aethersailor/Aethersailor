@@ -4,7 +4,7 @@
 🌍 Currently working with **Infosys Ltd / DXC Technology** (remote contract)  
 🕶️ Full-time digital nomad since 2020  
 📍 Usually based in **Chiang Mai 🇹🇭** or **Hangzhou 🇨🇳** or anywhere in the world  
-🗣️ Languages: Chinese (Native) / English (Fluent)
+🗣️ Languages: Chinese (Native) / English
 
 ---
 
