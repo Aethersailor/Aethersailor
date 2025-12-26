@@ -10,7 +10,7 @@
 
 ### 📊 GitHub Stats
 
-[![Aethersailor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true)](https://github.com/Aethersailor/github-readme-stats)
+[![Aethersailor's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=transparent)](https://github.com/Aethersailor/github-readme-stats)
 
 ---
 
