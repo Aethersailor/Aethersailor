@@ -11,14 +11,3 @@
 ### 📊 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&theme=transparent)
-
----
-
-### 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Aethersailor/Aethersailor/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Aethersailor/Aethersailor/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Aethersailor/Aethersailor/output/github-contribution-grid-snake.svg">
-</picture>
-
