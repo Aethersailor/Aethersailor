@@ -1,19 +1,19 @@
 <div align="center">
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./profile-3d-contrib/profile-night-green.svg">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./profile-3d-contrib/profile-green.svg">
-  <img
-    width="100%"
-    src="./profile-3d-contrib/profile-green.svg"
-    alt="GitHub 3D Contributions">
-</picture>
-
-<br>
+#<picture>
+#  <source
+#    media="(prefers-color-scheme: dark)"
+#    srcset="./profile-3d-contrib/profile-night-green.svg">
+#  <source
+#    media="(prefers-color-scheme: light)"
+#    srcset="./profile-3d-contrib/profile-green.svg">
+#  <img
+#    width="100%"
+#    src="./profile-3d-contrib/profile-green.svg"
+#    alt="GitHub 3D Contributions">
+#</picture>
+#
+#<br>
 
 <picture>
   <source
