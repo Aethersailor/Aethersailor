@@ -1,17 +1,15 @@
 <div align="center">
 
-
-
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=github_dark_dimmed">
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=github_dark_dimmed">
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=default">
+    srcset="https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=default">
   <img
     width="49%"
-    src="https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&rank_icon=github&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=default"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Aethersailor&show_icons=true&include_all_commits=true&show=reviews,discussions_started,discussions_answered,prs_merged&hide_border=true&theme=default"
     alt="GitHub Stats">
 </picture>
 <picture>
