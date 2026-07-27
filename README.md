@@ -1,7 +1,16 @@
 <div align="center">
 
 <picture>
-  <img width="100%" src="./github-metrics.svg" alt="GitHub Metrics">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-3d-contrib/profile-night-green.svg">
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="./profile-3d-contrib/profile-green.svg">
+  <img
+    width="100%"
+    src="./profile-3d-contrib/profile-green.svg"
+    alt="GitHub 3D Contributions">
 </picture>
 
 <br>
@@ -29,21 +38,6 @@
     width="49%"
     src="https://streak-stats.demolab.com?user=Aethersailor&theme=default&hide_border=true&background=00000000"
     alt="GitHub Streak">
-</picture>
-
-<br><br>
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aethersailor&theme=github-compact&hide_border=true&area=true">
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://github-readme-activity-graph.vercel.app/graph?username=Aethersailor&theme=github&hide_border=true&area=true">
-  <img
-    width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aethersailor&theme=github&hide_border=true&area=true"
-    alt="GitHub Activity Graph">
 </picture>
 
 </div>
